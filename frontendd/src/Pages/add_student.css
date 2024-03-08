@@ -1,0 +1,38 @@
+.student-container{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 200px;
+    background: #f18787;
+    padding-bottom: 30px;
+    width: 600px;
+    border-radius: 20px;
+    align-items: center;
+}
+
+.Student-heading{
+    /* background-color: rgb(255, 255, 255); */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap : 10px;
+    width: 100%;
+    margin-top: 20px;
+    font-size: xx-large;
+    font-weight: bolder;
+
+}
+
+.input{
+    margin: 10px;
+    border-radius: 10px;
+    align-self: center;
+
+}
+
+.submit{
+    color: rgb(255, 255, 255);
+    background-color: rgb(8, 16, 180);
+    border: 100px;
+    border-radius: 10%;
+}
